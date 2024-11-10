@@ -1,48 +1,26 @@
-# MentorWave
-<strong>MentorWave</strong> seeks to provide a platform where we can connect mentees with a wide range of experience mentors in the tech industry. It is an innovative web application that serves as a hub for mentors and mentees to connect and foster personal and professional growth. This dynamic platform is designed to facilitate meaningful interactions, allowing mentors and mentees to come together, engage in knowledge sharing, and embark on transformative mentorship journeys.
+Mentor Connect
+<strong>Mentor Connect</strong> is a dynamic platform designed to link mentees with experienced mentors in the tech industry. It aims to foster personal and professional growth by creating a space where mentors and mentees can interact meaningfully, exchange knowledge, and embark on impactful mentorship journeys.
 
-For mentors, MentorWave provides a dedicated space to showcase their expertise, skills, and experiences. Mentors can create detailed profiles that highlight their professional background, areas of specialization, and mentoring approach. This enables mentees to discover mentors who align with their goals and interests, making it easier to find the right mentor for their specific needs.
+For mentors, Mentor Connect provides a dedicated platform to showcase their expertise, skills, and experiences. Mentors can create detailed profiles, highlighting their professional background, specialization areas, and mentoring style. This allows mentees to easily find mentors who align with their goals, making it simpler to connect with the right mentor for their specific needs.
 
-For mentees, MentorWave offers a valuable resource for seeking guidance and support. Mentees can explore a diverse pool of mentors, review their profiles, and connect with those who resonate with their aspirations. MentorHub empowers mentees to take control of their personal and professional development, providing a supportive environment where they can learn from experienced mentors and gain insights to achieve their goals.
+For mentees, Mentor Connect offers a valuable resource for guidance and professional support. Mentees can explore a diverse pool of mentors, evaluate their profiles, and choose those who resonate with their aspirations. Mentor Connect empowers mentees to take charge of their personal and career development, providing them with a supportive environment to learn from experienced mentors and gain insights to achieve their goals.
 
-MentorWave revolutionizes the mentorship experience, providing a secure and user-friendly platform that bridges the gap between mentors and mentees. It is a place where meaningful connections are forged, knowledge is shared, and growth is nurtured. Join MentorHub today and embark on an enriching mentorship journey that will propel you towards success.
-<h2>Problem Solved</h2>
-MentorWave aims to address various challenges and problems faced by both mentors and mentees, creating a platform that offers solutions and benefits for both parties. Here are some of the key problems that MentorHub can help solve:
+Mentor Connect revolutionizes the mentorship experience by offering a secure, user-friendly platform that bridges the gap between mentors and mentees. It’s a space where meaningful connections are made, knowledge is shared, and growth is nurtured. Join Mentor Connect today and begin your enriching mentorship journey to success.
 
-<b>Lack of Guidance and Support:</b> Many individuals, especially young professionals or students, struggle to find proper guidance and support in their personal or professional journeys. MentorHub provides a structured platform where mentees can connect with experienced mentors who can offer valuable insights, advice, and support.
+<h2>Problem Solved</h2> Mentor Connect addresses several challenges faced by both mentors and mentees, offering effective solutions for both groups. Here are the key issues Mentor Connect solves:
+<b>Lack of Guidance and Support:</b> Many young professionals and students struggle to find the right guidance in their personal or professional journeys. Mentor Connect offers a structured platform where mentees can connect with experienced mentors who provide valuable insights, advice, and support.
 
-<b>Limited Access to Mentors:</b> Finding mentors with the right expertise and availability can be challenging. MentorHub expands the network of mentors accessible to mentees, offering a diverse pool of mentors from various fields and backgrounds. This increases the chances of finding the ideal mentor who can address specific needs and goals.
+<b>Limited Access to Mentors:</b> Finding mentors with the right expertise and availability can be difficult. Mentor Connect broadens the network of mentors available to mentees, offering a diverse range of mentors from various fields and backgrounds, increasing the likelihood of finding the perfect mentor.
 
-<b>Time and Location Constraints:</b> Traditional mentorship programs often require in-person meetings, which can be difficult due to geographical limitations or time constraints. MentorHub overcomes these limitations by providing an online platform that facilitates virtual mentorship, allowing mentors and mentees to connect regardless of their location or time zone.
+<b>Time and Location Constraints:</b> Traditional mentorship programs often require in-person meetings, which can be challenging due to geographical or time constraints. Mentor Connect eliminates these barriers by offering a fully online platform that enables virtual mentorship, allowing mentors and mentees to connect regardless of location or time zone.
 
-<b>Lack of Mentorship Opportunities:</b> Many individuals may not have access to formal mentorship programs or organizations. MentorHub democratizes mentorship by providing an inclusive platform where mentors from different backgrounds can offer their expertise, making mentorship accessible to a wider audience.
+<b>Lack of Mentorship Opportunities:</b> Many people don’t have access to formal mentorship programs. Mentor Connect democratizes mentorship, providing an inclusive platform where mentors from diverse backgrounds can offer their expertise, making mentorship accessible to a wider audience.
 
-<b>Networking and Collaboration:</b> MentorHub fosters a community of like-minded individuals, creating opportunities for mentees to network with peers, mentors, and industry professionals. This enables collaboration, knowledge sharing, and the development of valuable connections.
+<b>Networking and Collaboration:</b> Mentor Connect fosters a community of like-minded individuals, creating opportunities for mentees to network with peers, mentors, and industry professionals. This environment encourages collaboration, knowledge-sharing, and the building of valuable connections.
 
-<h2>Getting Started</h2>
-To run this website locally follow this steps:
-1. Clone this repository into your local machine by running git clone https://github.com/Orandifelix/MentorWave.git
-2. Run npm install to install all project dependencies
-3. Run npm run server to start the server at local host 8001
-4. Run npm start to lauch a web development environment
-
-<h2>Technologies Used</h2>
-This project is built using:
-1. React Js
-2. Semantic Ui
-3. React-Icons
-4. Sweetalert2
-<h2>License</h2>
-This software is licensed under the [MIT License](https://opensource.org/licenses/MIT), which means that it is free and open source software and can be used, copied, modified, merged, published, distributed, sublicensed, and/or sold, subject to the following conditions:
-
-The copyright notice and permission notice shall be included in all copies or substantial portions of the software.
-
-The software is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and noninfringement.
-
-In no event shall the authors or copyright holders be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the software or the use or other dealings in the software.
-<h2>Terms of Use</h2>
-By using this software, you agree to the terms of the license and have the right to use and modify the software as outlined in the license. You may also distribute the software, as long as you include the license and copyright notice.
-<h2>Data Privacy and Policy</h2>
-This website collects user data for personaized mentorship experience. By agreeing to the terms and conditions, you agree with our data policy. MentorWave values the privacy and security of our users. We collect only the minimum necessary data to operate and maintain our software, and we do not share or sell user data to third parties. Our full privacy policy can be found [here](https://www.mentorwave.com/privacy-policy). If you have any questions or concerns about our data collection practices, please contact us at support@mentorwave.com.
-
-  <h3>Copyright (c) 2023 Mentorwave Limited. All rights reserved.</h3>
+<h2>Getting Started</h2> To run this website locally, follow these steps: 1. Clone this repository to your local machine by running: ```bash git clone https://github.com/Orandifelix/MentorConnect.git ``` 2. Run `npm install` to install all project dependencies. 3. Run `npm run server` to start the server at localhost:8001. 4. Run `npm start` to launch the web development environment. <h2>Technologies Used</h2> This project is built using: 1. React Js 2. Semantic UI 3. React-Icons 4. Sweetalert2 <h2>License</h2> This software is licensed under the [MIT License](https://opensource.org/licenses/MIT), meaning it is free and open source, and can be used, copied, modified, merged, published, distributed, sublicensed, and/or sold under the following conditions:
+The copyright notice and permission notice must be included in all copies or substantial portions of the software.
+The software is provided "as is", without any warranty, express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, and noninfringement.
+In no event shall the authors or copyright holders be liable for any claims, damages, or other liabilities arising from or related to the use or dealings in the software.
+<h2>Terms of Use</h2> By using this software, you agree to the terms of the license and have the right to use and modify the software as outlined in the license. You may also distribute the software, provided that you include the license and copyright notice. <h2>Data Privacy and Policy</h2> This website collects user data for a personalized mentorship experience. By agreeing to the terms and conditions, you consent to our data policy. Mentor Connect values user privacy and security. We collect only the necessary data to operate and maintain our software, and we do not share or sell user data to third parties. Our full privacy policy can be found [here](https://www.mentorconnect.com/privacy-policy). For any questions or concerns regarding our data practices, please contact us at asif11931@gmail.com <h3>Copyright (c) 2023 Mentor Connect Limited. All rights reserved.</h3>
+This version reflects the changes you've requested, with "Mentor Connect" as the platform name.
